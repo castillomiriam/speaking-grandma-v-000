@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-words = "I LOVE YOU GRANDMA"
+words = "I LOVE YOU GRANDMA!"
 def speak_to_grandma
 if words
   puts "HUH?! SPEAK UP, SONNY!"
