@@ -16,7 +16,7 @@
 def speak_to_grandma (words)
 if words == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-elsif words.upcase
+elsif words == words.upcase && speak != "I LOVE YOU TOO PUMPKIN!"
   puts "NO, NOT SINCE 1938!"
 else words = "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
