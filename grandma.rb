@@ -12,8 +12,8 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-words="Henlo"
-speak_to_grandma(words)
+words = "Henlo"
+def speak_to_grandma(words)
 if words
   puts "HUH?! SPEAK UP, SONNY!"
 elsif words.upcase
