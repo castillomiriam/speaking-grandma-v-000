@@ -17,7 +17,7 @@ speak_to_grandma(words)
 if words
   puts "HUH?! SPEAK UP, SONNY!"
 elsif == words.upcase
-  puts "Refilling water bowl."
+  puts "NO, NOT SINCE 1938!"
 elsif dog == "playful"
   puts "Playing tug-of-war."
 elsif dog == "cuddly"
