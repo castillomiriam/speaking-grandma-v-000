@@ -18,10 +18,7 @@ if words
   puts "HUH?! SPEAK UP, SONNY!"
 elsif == words.upcase
   puts "NO, NOT SINCE 1938!"
-elsif words == "I LOVE YOU GRANDMA!"
+else words == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-elsif dog == "cuddly"
-  puts "Snuggling."
-else
-  puts "Reading newspaper."
+
 end
