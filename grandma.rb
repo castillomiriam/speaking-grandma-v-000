@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-speak_to_grandma
+speak_to_grandma(words)
 if words
   puts "HUH?! SPEAK UP, SONNY!"
 elsif == words.upcase
