@@ -19,7 +19,7 @@ if words
 elsif == words.upcase
   puts "NO, NOT SINCE 1938!"
 elsif words == "I LOVE YOU GRANDMA!"
-  puts "Playing tug-of-war."
+  puts "I LOVE YOU TOO PUMPKIN!"
 elsif dog == "cuddly"
   puts "Snuggling."
 else
