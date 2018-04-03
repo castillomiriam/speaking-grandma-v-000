@@ -11,3 +11,17 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+dog = "cuddly"
+ 
+if words
+  puts "HUH?! SPEAK UP, SONNY!"
+elsif == words.upcase 
+  puts "Refilling water bowl."
+elsif dog == "playful"
+  puts "Playing tug-of-war."
+elsif dog == "cuddly"
+  puts "Snuggling."
+else
+  puts "Reading newspaper."
+end
