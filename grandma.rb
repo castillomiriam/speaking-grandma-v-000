@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 words = "Henlo"
-def speak_to_grandma(words)
+def speak_to_grandma
 if words
   puts "HUH?! SPEAK UP, SONNY!"
 elsif words.upcase
